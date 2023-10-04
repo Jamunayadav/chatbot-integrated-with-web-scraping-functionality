@@ -11,7 +11,7 @@ import openai
 import requests
 from bs4 import BeautifulSoup
 #API key
-openai.api_key = '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'
+openai.api_key = 'your api key'
 
 # Function to chat
 def chat_with_gpt(prompt):
